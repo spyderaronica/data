@@ -1,4 +1,4 @@
-Household_Expenditure_Data_with_SocialClass
+
 Year,SocialClass,FoodExpense,HouseMaintainceBill,HealthExpense,TransportExpense,RecreationAndCulture,RestaurantsAndHotels,TotalEssentialExpenditure,AvgHouseholdSize,TotalExpenditure
 2016,All households,56.8,72.5,7.2,72.7,68.0,45.1,455.3,2.4,528.9
 2016,Students,51.3,153.0,2.2,65.5,42.8,47.7,551.7,2.8,592.2
