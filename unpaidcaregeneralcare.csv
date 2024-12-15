@@ -1,0 +1,121 @@
+Countries Code,Countries,GeneralHealthCode,GeneralHealth,UnpaidCareCode,UnpaidCare,NumberOfDisabledPeopleInHouseholdCode,NumberOfDisabledPeopleInHousehold,Observation
+E92000001,England,-8,Does not apply,-8,Does not apply,-8,Does not apply,0
+E92000001,England,-8,Does not apply,-8,Does not apply,0,No people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,-8,Does not apply,1,1 person disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,-8,Does not apply,2,2 or more people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,1,Provides no unpaid care,-8,Does not apply,0
+E92000001,England,-8,Does not apply,1,Provides no unpaid care,0,No people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,1,Provides no unpaid care,1,1 person disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,1,Provides no unpaid care,2,2 or more people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,2,Provides 19 or less hours unpaid care a week,-8,Does not apply,0
+E92000001,England,-8,Does not apply,2,Provides 19 or less hours unpaid care a week,0,No people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,2,Provides 19 or less hours unpaid care a week,1,1 person disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,2,Provides 19 or less hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,3,Provides 20 to 49 hours unpaid care a week,-8,Does not apply,0
+E92000001,England,-8,Does not apply,3,Provides 20 to 49 hours unpaid care a week,0,No people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,3,Provides 20 to 49 hours unpaid care a week,1,1 person disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,3,Provides 20 to 49 hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,4,Provides 50 or more hours unpaid care a week,-8,Does not apply,0
+E92000001,England,-8,Does not apply,4,Provides 50 or more hours unpaid care a week,0,No people disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,4,Provides 50 or more hours unpaid care a week,1,1 person disabled under the Equality Act in household,0
+E92000001,England,-8,Does not apply,4,Provides 50 or more hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,0
+E92000001,England,1,Good health,-8,Does not apply,-8,Does not apply,0
+E92000001,England,1,Good health,-8,Does not apply,0,No people disabled under the Equality Act in household,2401135
+E92000001,England,1,Good health,-8,Does not apply,1,1 person disabled under the Equality Act in household,463853
+E92000001,England,1,Good health,-8,Does not apply,2,2 or more people disabled under the Equality Act in household,149290
+E92000001,England,1,Good health,1,Provides no unpaid care,-8,Does not apply,0
+E92000001,England,1,Good health,1,Provides no unpaid care,0,No people disabled under the Equality Act in household,31427943
+E92000001,England,1,Good health,1,Provides no unpaid care,1,1 person disabled under the Equality Act in household,6183169
+E92000001,England,1,Good health,1,Provides no unpaid care,2,2 or more people disabled under the Equality Act in household,1798079
+E92000001,England,1,Good health,2,Provides 19 or less hours unpaid care a week,-8,Does not apply,0
+E92000001,England,1,Good health,2,Provides 19 or less hours unpaid care a week,0,No people disabled under the Equality Act in household,1048520
+E92000001,England,1,Good health,2,Provides 19 or less hours unpaid care a week,1,1 person disabled under the Equality Act in household,567096
+E92000001,England,1,Good health,2,Provides 19 or less hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,208368
+E92000001,England,1,Good health,3,Provides 20 to 49 hours unpaid care a week,-8,Does not apply,0
+E92000001,England,1,Good health,3,Provides 20 to 49 hours unpaid care a week,0,No people disabled under the Equality Act in household,265487
+E92000001,England,1,Good health,3,Provides 20 to 49 hours unpaid care a week,1,1 person disabled under the Equality Act in household,290011
+E92000001,England,1,Good health,3,Provides 20 to 49 hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,126930
+E92000001,England,1,Good health,4,Provides 50 or more hours unpaid care a week,-8,Does not apply,0
+E92000001,England,1,Good health,4,Provides 50 or more hours unpaid care a week,0,No people disabled under the Equality Act in household,85720
+E92000001,England,1,Good health,4,Provides 50 or more hours unpaid care a week,1,1 person disabled under the Equality Act in household,548549
+E92000001,England,1,Good health,4,Provides 50 or more hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,219382
+E92000001,England,2,Not good health,-8,Does not apply,-8,Does not apply,0
+E92000001,England,2,Not good health,-8,Does not apply,0,No people disabled under the Equality Act in household,18730
+E92000001,England,2,Not good health,-8,Does not apply,1,1 person disabled under the Equality Act in household,22108
+E92000001,England,2,Not good health,-8,Does not apply,2,2 or more people disabled under the Equality Act in household,19823
+E92000001,England,2,Not good health,1,Provides no unpaid care,-8,Does not apply,0
+E92000001,England,2,Not good health,1,Provides no unpaid care,0,No people disabled under the Equality Act in household,2462400
+E92000001,England,2,Not good health,1,Provides no unpaid care,1,1 person disabled under the Equality Act in household,4254024
+E92000001,England,2,Not good health,1,Provides no unpaid care,2,2 or more people disabled under the Equality Act in household,1646362
+E92000001,England,2,Not good health,2,Provides 19 or less hours unpaid care a week,-8,Does not apply,0
+E92000001,England,2,Not good health,2,Provides 19 or less hours unpaid care a week,0,No people disabled under the Equality Act in household,86147
+E92000001,England,2,Not good health,2,Provides 19 or less hours unpaid care a week,1,1 person disabled under the Equality Act in household,197649
+E92000001,England,2,Not good health,2,Provides 19 or less hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,183715
+E92000001,England,2,Not good health,3,Provides 20 to 49 hours unpaid care a week,-8,Does not apply,0
+E92000001,England,2,Not good health,3,Provides 20 to 49 hours unpaid care a week,0,No people disabled under the Equality Act in household,31717
+E92000001,England,2,Not good health,3,Provides 20 to 49 hours unpaid care a week,1,1 person disabled under the Equality Act in household,94292
+E92000001,England,2,Not good health,3,Provides 20 to 49 hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,158292
+E92000001,England,2,Not good health,4,Provides 50 or more hours unpaid care a week,-8,Does not apply,0
+E92000001,England,2,Not good health,4,Provides 50 or more hours unpaid care a week,0,No people disabled under the Equality Act in household,19446
+E92000001,England,2,Not good health,4,Provides 50 or more hours unpaid care a week,1,1 person disabled under the Equality Act in household,153895
+E92000001,England,2,Not good health,4,Provides 50 or more hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,372168
+W92000004,Wales,-8,Does not apply,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,0,No people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,1,1 person disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,-8,Does not apply,2,2 or more people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,1,Provides no unpaid care,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,1,Provides no unpaid care,0,No people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,1,Provides no unpaid care,1,1 person disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,1,Provides no unpaid care,2,2 or more people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,2,Provides 19 or less hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,2,Provides 19 or less hours unpaid care a week,0,No people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,2,Provides 19 or less hours unpaid care a week,1,1 person disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,2,Provides 19 or less hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,3,Provides 20 to 49 hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,3,Provides 20 to 49 hours unpaid care a week,0,No people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,3,Provides 20 to 49 hours unpaid care a week,1,1 person disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,3,Provides 20 to 49 hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,4,Provides 50 or more hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,4,Provides 50 or more hours unpaid care a week,0,No people disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,4,Provides 50 or more hours unpaid care a week,1,1 person disabled under the Equality Act in household,0
+W92000004,Wales,-8,Does not apply,4,Provides 50 or more hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,0
+W92000004,Wales,1,Good health,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,1,Good health,-8,Does not apply,0,No people disabled under the Equality Act in household,114789
+W92000004,Wales,1,Good health,-8,Does not apply,1,1 person disabled under the Equality Act in household,27978
+W92000004,Wales,1,Good health,-8,Does not apply,2,2 or more people disabled under the Equality Act in household,9125
+W92000004,Wales,1,Good health,1,Provides no unpaid care,-8,Does not apply,0
+W92000004,Wales,1,Good health,1,Provides no unpaid care,0,No people disabled under the Equality Act in household,1565731
+W92000004,Wales,1,Good health,1,Provides no unpaid care,1,1 person disabled under the Equality Act in household,365524
+W92000004,Wales,1,Good health,1,Provides no unpaid care,2,2 or more people disabled under the Equality Act in household,110524
+W92000004,Wales,1,Good health,2,Provides 19 or less hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,1,Good health,2,Provides 19 or less hours unpaid care a week,0,No people disabled under the Equality Act in household,61162
+W92000004,Wales,1,Good health,2,Provides 19 or less hours unpaid care a week,1,1 person disabled under the Equality Act in household,33927
+W92000004,Wales,1,Good health,2,Provides 19 or less hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,12666
+W92000004,Wales,1,Good health,3,Provides 20 to 49 hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,1,Good health,3,Provides 20 to 49 hours unpaid care a week,0,No people disabled under the Equality Act in household,16423
+W92000004,Wales,1,Good health,3,Provides 20 to 49 hours unpaid care a week,1,1 person disabled under the Equality Act in household,19393
+W92000004,Wales,1,Good health,3,Provides 20 to 49 hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,8631
+W92000004,Wales,1,Good health,4,Provides 50 or more hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,1,Good health,4,Provides 50 or more hours unpaid care a week,0,No people disabled under the Equality Act in household,5827
+W92000004,Wales,1,Good health,4,Provides 50 or more hours unpaid care a week,1,1 person disabled under the Equality Act in household,39358
+W92000004,Wales,1,Good health,4,Provides 50 or more hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,16280
+W92000004,Wales,2,Not good health,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,2,Not good health,-8,Does not apply,0,No people disabled under the Equality Act in household,730
+W92000004,Wales,2,Not good health,-8,Does not apply,1,1 person disabled under the Equality Act in household,1138
+W92000004,Wales,2,Not good health,-8,Does not apply,2,2 or more people disabled under the Equality Act in household,1240
+W92000004,Wales,2,Not good health,1,Provides no unpaid care,-8,Does not apply,0
+W92000004,Wales,2,Not good health,1,Provides no unpaid care,0,No people disabled under the Equality Act in household,133479
+W92000004,Wales,2,Not good health,1,Provides no unpaid care,1,1 person disabled under the Equality Act in household,290378
+W92000004,Wales,2,Not good health,1,Provides no unpaid care,2,2 or more people disabled under the Equality Act in household,121334
+W92000004,Wales,2,Not good health,2,Provides 19 or less hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,2,Not good health,2,Provides 19 or less hours unpaid care a week,0,No people disabled under the Equality Act in household,4863
+W92000004,Wales,2,Not good health,2,Provides 19 or less hours unpaid care a week,1,1 person disabled under the Equality Act in household,12544
+W92000004,Wales,2,Not good health,2,Provides 19 or less hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,12484
+W92000004,Wales,2,Not good health,3,Provides 20 to 49 hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,2,Not good health,3,Provides 20 to 49 hours unpaid care a week,0,No people disabled under the Equality Act in household,2041
+W92000004,Wales,2,Not good health,3,Provides 20 to 49 hours unpaid care a week,1,1 person disabled under the Equality Act in household,6676
+W92000004,Wales,2,Not good health,3,Provides 20 to 49 hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,12201
+W92000004,Wales,2,Not good health,4,Provides 50 or more hours unpaid care a week,-8,Does not apply,0
+W92000004,Wales,2,Not good health,4,Provides 50 or more hours unpaid care a week,0,No people disabled under the Equality Act in household,1656
+W92000004,Wales,2,Not good health,4,Provides 50 or more hours unpaid care a week,1,1 person disabled under the Equality Act in household,11787
+W92000004,Wales,2,Not good health,4,Provides 50 or more hours unpaid care a week,2,2 or more people disabled under the Equality Act in household,31659
